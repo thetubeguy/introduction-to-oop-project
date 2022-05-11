@@ -16,9 +16,15 @@ namespace introduction_to_oop_project
             pippa.Fly();
             pippa.EatPizza();
             pippa.Sleep();
+            pippa.Spin();
+            pippa.DoTheCaterpillar();
+            pippa.Jump();
             Penguin pingu = new Penguin("Pingu", "Black & White");
             pingu.Speak();
             pingu.Fly();
+            pingu.Spin();
+            pingu.DoTheCaterpillar();
+            pingu.Jump();
             Parrot polly = new Parrot("Polly", "Green & Yellow");
             polly.Speak();
             polly.Fly();
