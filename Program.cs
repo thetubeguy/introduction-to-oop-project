@@ -15,6 +15,11 @@ namespace introduction_to_oop_project
             myBird.Speak();
             myBird.Fly();
 
+            Pigeon pippa = new Pigeon("Pippa", "Grey");
+            pippa.Speak();
+            pippa.Fly();
+            pippa.EatPizza();
+
         }
     }
 }
