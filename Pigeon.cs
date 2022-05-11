@@ -18,5 +18,10 @@ namespace introduction_to_oop_project
         {
             Console.WriteLine("Delicious pizza!");
         }
+
+        public void Sleep()
+        {
+            Console.WriteLine("I'm a sleeping pigeon");
+        }
     }
 }

@@ -19,6 +19,7 @@ namespace introduction_to_oop_project
             pippa.Speak();
             pippa.Fly();
             pippa.EatPizza();
+            pippa.Sleep();
 
         }
     }
